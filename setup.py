@@ -6,7 +6,7 @@ setup(
     description='A brief description',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Bank Transaction',
+    author='Islombek Normamatov',
     author_email='islomjon2702@gmail.com',
     url='https://github.com/islombeknv/ipakyulibank.git',
     packages=find_packages(),
